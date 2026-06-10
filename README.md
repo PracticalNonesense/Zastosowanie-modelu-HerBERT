@@ -1,1 +1,0 @@
-# Zastosowanie-modelu-HerBERT
